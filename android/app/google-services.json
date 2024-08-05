@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154507383798",
+    "project_id": "fb-exam-1",
+    "storage_bucket": "fb-exam-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154507383798:android:4d9ffe42dd775f38396dd7",
+        "android_client_info": {
+          "package_name": "com.example.fb_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Ep5yQh4pp690Qo5U31Ly4vmPBS0Nj34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
